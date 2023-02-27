@@ -1,0 +1,2 @@
+# kawahedukasi
+batch 6
